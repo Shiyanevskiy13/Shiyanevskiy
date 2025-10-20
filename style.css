@@ -14,7 +14,7 @@
 
 /* Шапка */
 header {
-    background-color: rgb(93, 54, 159) !important;
+    background-color: rgb(57, 199, 119) !important;
 }
 
 /* Навигация для мобильных */
@@ -40,7 +40,7 @@ table {
 }
 
 th {
-    background-color: rgb(93, 54, 159);
+    background-color: rgb(57, 199, 119);
     color: white;
     padding: 12px;
     text-align: left;
@@ -59,13 +59,13 @@ td {
 }
 
 .links a:hover {
-    color: rgb(93, 54, 159);
+    color: rgb(57, 199, 119);
     text-decoration: underline;
 }
 
 /* Футер */
 footer {
-    background-color: rgb(93, 54, 159) !important;
+    background-color: rgb(57, 199, 119) !important;
     margin-top: auto;
 }
 
@@ -99,8 +99,8 @@ footer {
 }
 
 .btn-primary {
-    background-color: rgb(93, 54, 159);
-    border-color: rgb(93, 54, 159);
+    background-color: rgb(57, 199, 119);
+    border-color: rgb(57, 199, 119);
 }
 
 .btn-primary:hover {
@@ -113,8 +113,8 @@ footer {
 }
 
 .form-control:focus {
-    border-color: rgb(93, 54, 159);
-    box-shadow: 0 0 0 0.2rem rgba(93, 54, 159, 0.25);
+    border-color: rgb(57, 199, 119);
+    box-shadow: 0 0 0 0.2rem rgba(57, 199, 119, 0.25);
 }
 
 .list-unstyled {
