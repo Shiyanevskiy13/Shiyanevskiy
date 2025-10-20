@@ -24,7 +24,7 @@ header {
 
 /* Основные блоки контента */
 .links, .forms, .tables {
-    background-color: #FFD700;
+    background-color: #DFD709;
     border: 1px solid #000000;
     border-radius: 8px;
 }
@@ -86,7 +86,7 @@ footer {
 /* Стили для десктопов */
 @media (min-width: 768px) {
     .nav-link.text-white:hover {
-        background-color: #FFD700;
+        background-color: #DFD709;
         color: #000000 !important;
         border-radius: 4px;
         transition: all 0.3s ease;
